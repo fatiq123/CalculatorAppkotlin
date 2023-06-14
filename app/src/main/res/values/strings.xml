@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CalculatorApp</string>
+    <string name="developed_by_fatiq_hussnain">Developed By Fatiq Hussnain</string>
+    <string name="calculator_app">Calculator App</string>
 </resources>
